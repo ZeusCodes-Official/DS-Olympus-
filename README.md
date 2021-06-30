@@ -4,7 +4,7 @@
 
 ![image](forReadme/intro.gif)
 
-**A collection of various data science problems in various fields like machine learning, deep learning (image recognition, natural language processing)**. 
+**A collection of various data science problems along with it's dataset and solutions in various fields like machine learning, deep learning (image recognition, natural language processing) all at one place**. 
 
 <br>
 <br>
@@ -77,4 +77,4 @@ Deep learning projects will be under "deepLearning" folder.
 
 3. The folder should contain - <br>
 ✅ Jyputer Notebook (complete explanation and code to the problem)<br>
-✅ Dataset (if it is less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
+✅ Dataset (if it is less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br> 
