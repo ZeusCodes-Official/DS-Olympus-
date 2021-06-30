@@ -25,8 +25,8 @@ Recently, many students have leaned towards learning Data Science and look forwa
 #### ⚡️ For DataScience
 ✅ Python, R (Python preferred) <Br>
 ✅ Jyputer notebook <Br>
-✅ Tableau (where-ever applicable)<Br>
 ✅ Viz -  Tableau PowerBI Pandas Seaborn ggplot Bokeh petal Plotly (where-ever applicable)<Br>
+
 
 #### ⚡️ For Web Dev
 ✅ Html <Br>
@@ -35,6 +35,46 @@ Recently, many students have leaned towards learning Data Science and look forwa
 ✅ JavaScript <Br>
 ✅ Hosting - GithubPages <Br>
 
+<br>
+<br>
+
+## 🚩 Contribution Guide
+
+#### General
+* **Never. Repeat. Never** make a pull request directly to the main branch. 
+* Fork the repository, and make sure you make pull requests to the branch created by you. (Again, never to the **main** branch)
+* Make sure you dm if you have any doubts whatsoever.
+
+<br>
+
+#### For DataScience
+
+1. Find great problems related in various fields <Br>
+✅ Machine Learning <br>
+Machine learning projects will be under "machineLearning" folder.<br>
+✅ Deep Learning (Image Recognition, Natural Language Processing, etc)<br>
+Deep learning projects will be under "deepLearning" folder.
+
+2. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
+
+3. The folder should contain - <br>
+✅ Jyputer Notebook (complete explanation and code to the problem)<br>
+✅ Dataset (if it it less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
 
 
+<Br>
 
+
+#### For WebDev
+
+1. Find great problems related in various fields <Br>
+✅ Machine Learning <br>
+Machine learning projects will be under "machineLearning" folder.<br>
+✅ Deep Learning (Image Recognition, Natural Language Processing, etc)<br>
+Deep learning projects will be under "deepLearning" folder.
+
+2. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
+
+3. The folder should contain - <br>
+✅ Jyputer Notebook (complete explanation and code to the problem)<br>
+✅ Dataset (if it is less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
