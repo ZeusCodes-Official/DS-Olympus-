@@ -1,5 +1,9 @@
 # DS-Olympus ⚡️
 ### This repo will serve as the main repository for project "DS Olympus" - 
+<br>
+
+![image](forReadme/intro.gif)
+
 **A collection of various data science problems in various fields like machine learning, deep learning (image recognition, natural language processing)**. 
 
 <br>
