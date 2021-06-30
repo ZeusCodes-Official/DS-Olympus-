@@ -67,14 +67,6 @@ Deep learning projects will be under "deepLearning" folder.
 
 #### For WebDev
 
-1. Find great problems related in various fields <Br>
-✅ Machine Learning <br>
-Machine learning projects will be under "machineLearning" folder.<br>
-✅ Deep Learning (Image Recognition, Natural Language Processing, etc)<br>
-Deep learning projects will be under "deepLearning" folder.
+1. Designing a layout
 
-2. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
-
-3. The folder should contain - <br>
-✅ Jyputer Notebook (complete explanation and code to the problem)<br>
-✅ Dataset (if it is less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br> 
+2. Further points will be clarified soon. 
