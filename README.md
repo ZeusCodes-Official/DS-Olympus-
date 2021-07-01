@@ -47,6 +47,12 @@ Recently, many students have leaned towards learning Data Science and look forwa
 
 ## 🚩 Contribution Guide
 
+<br>
+
+#### Before making any issues, make sure to check the ones already closed. Basically before working on a data science problem, make sure that it has not been completed by some other contributor already. 
+
+<br>
+
 #### General
 * **Never. Repeat. Never** make a pull request directly to the main branch. 
 * Fork the repository, and make sure you make pull requests to the branch created by you. (Again, never to the **main** branch)
@@ -54,7 +60,7 @@ Recently, many students have leaned towards learning Data Science and look forwa
 
 <br>
 
-#### For DataScience
+#### For DataScience 
 
 1. Find great problems related in various fields <Br>
 ✅ Machine Learning <br>
@@ -73,11 +79,11 @@ Deep learning projects will be under "deepLearning" folder.
 
 
 
-#### For WebDev (Till is required at a later stage of the project and can easily be done by a single contributor too)
+#### For WebDev 
+(This is required at a later stage of the project and can easily be done by a single contributor too).
 
+Web dev part is a work in progress, **before making issues and pr's make sure you dm on Slack(Utkarsh PA) OR [Twitter](https://twitter.com/TweetsZeus), pitching ideas that you think can make the site look aesthetic and minimalistic. <Br>
 
-
-Web dev part is a work in progress, **before making issues and pr's make sure you dm on Slack(Utkarsh PA) OR [Twitter](https://twitter.com/TweetsZeus), pitching ideas that you think can make the site look aesthetic and minimalistic. 
 
 1. Designing a layout
 
