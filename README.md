@@ -85,6 +85,9 @@ Deep learning projects will be under "deepLearning" folder.
 ✅ Dataset (if it it less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
 
 5. PR's will be merged only if the syntax provided above ^ is followed. 
+
+6. Once your PR is merged make sure you are filling up this form for DevIncept's team to track your contributions.<BR>
+[Link](https://docs.google.com/forms/d/e/1FAIpQLScIZGskVmKmadftHL5KzNKx4ydly-s2JYRfg587NGA2B5GX1g/viewform)
 <Br>
 
 
