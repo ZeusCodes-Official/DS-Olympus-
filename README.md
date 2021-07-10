@@ -50,8 +50,12 @@ Recently, many students have leaned towards learning Data Science and look forwa
 
 <br>
 
-#### Before making any issues, make sure to check the ones already closed. Basically before working on a data science problem, make sure that it has not been completed by some other contributor already. 
+#### Before making any issues, make sure to check the ones already closed. 
 
+#### Before working on a data science problem, make sure that it has not been completed by some other contributor already. 
+
+
+<br>
 <br>
 
 #### General
@@ -63,19 +67,23 @@ Recently, many students have leaned towards learning Data Science and look forwa
 
 #### For DataScience 
 
-1. Find great problems related in various fields <Br>
+1. Make an Issue for each problem you are looking to solve. (For example, if you have 2 projects in mind, one from machine learning and deep learning, make sure you make different issues for each.)
+
+2. Make sure you use correct labels for you problem, "machine learning" and "deep learning" is available in the labels tab. Make sure you are using them.
+
+2. Find great problems related in various fields <Br>
 ✅ Machine Learning <br>
 Machine learning projects will be under "machineLearning" folder.<br>
 ✅ Deep Learning (Image Recognition, Natural Language Processing, etc)<br>
 Deep learning projects will be under "deepLearning" folder.
 
-2. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
+3. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
 
-3. The folder should contain - <br>
+4. The folder should contain - <br>
 ✅ Jyputer Notebook (complete explanation and code to the problem)<br>
 ✅ Dataset (if it it less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
 
-
+5. PR's will be merged only if the syntax provided above ^ is followed. 
 <Br>
 
 
