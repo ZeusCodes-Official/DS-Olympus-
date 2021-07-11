@@ -87,9 +87,11 @@ If you are working on opencv projects and aren't using jyputer notebook, make su
 ✅ Dataset (if it it less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
 ✅ ReadMe - A little intro about your problem and the tech stack used along with the IDE's. 
 
-6. PR's will be merged only if the syntax provided above guidelines are ^ followed. 
+6. PR's will be merged only if the syntax provided above guidelines are ^ followed. <br>
 
-7. Once your PR is merged make sure you are filling up this form for DevIncept's team to track your contributions.<BR>
+7. After you have made the PR, make sure you send the link to PR in slack channel -> #ds-olympus
+
+8. Once your PR is merged make sure you are filling up this form for DevIncept's team to track your contributions.<BR>
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScIZGskVmKmadftHL5KzNKx4ydly-s2JYRfg587NGA2B5GX1g/viewform)
 <Br>
 
