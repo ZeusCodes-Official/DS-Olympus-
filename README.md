@@ -14,7 +14,7 @@
 
 **This project is an open-source project at it's early stages, ideas, thoughts, clarification or anything at all, are welcome!**
 
-**You can directly ping me on [Twitter](https://twitter.com/TweetsZeus) or Slack (searching "Utkarsh PA").** 
+**You can directly ping me on [Twitter](https://twitter.com/TweetsZeus) or Slack (searching "Utkarsh Program Admin").** 
 
 
 ## 🚩 What Problem are we looking to solve? 
@@ -61,7 +61,7 @@ Recently, many students have leaned towards learning Data Science and look forwa
 #### General
 * **Never. Repeat. Never** make a pull request directly to the main branch. 
 * Fork the repository, and make sure you make pull requests to the branch created by you. (Again, never to the **main** branch)
-* Make sure you dm if you have any doubts whatsoever.
+* Make sure you dm if you have any doubts whatsoever. (Slack channel #ds-olympus)
 
 <br>
 
@@ -87,7 +87,7 @@ If you are working on opencv projects and aren't using jyputer notebook, make su
 ✅ Dataset (if it it less than 100MB), Also if you have problems uploading the file or bandwidth issue, make sure you make a section about dataset in Jyputer notebook <br>
 ✅ ReadMe - A little intro about your problem and the tech stack used along with the IDE's. 
 
-6. PR's will be merged only if the syntax provided above ^ is followed. 
+6. PR's will be merged only if the syntax provided above guidelines are ^ followed. 
 
 7. Once your PR is merged make sure you are filling up this form for DevIncept's team to track your contributions.<BR>
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScIZGskVmKmadftHL5KzNKx4ydly-s2JYRfg587NGA2B5GX1g/viewform)
