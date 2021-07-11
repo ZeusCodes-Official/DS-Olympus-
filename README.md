@@ -95,7 +95,7 @@ Deep learning projects will be under "deepLearning" folder.
 #### For WebDev 
 (This is required at a later stage of the project and can easily be done by a single contributor too).
 
-Web dev part is a work in progress, **before making issues and pr's make sure you dm on Slack(Utkarsh PA) OR [Twitter](https://twitter.com/TweetsZeus), pitching ideas that you think can make the site look aesthetic and minimalistic. <Br>
+Web dev part is a work in progress, **before making issues and pr's make sure you dm on Slack channel #ds-olympus or (Utkarsh PA) OR [Twitter](https://twitter.com/TweetsZeus), pitching ideas that you think can make the site look aesthetic and minimalistic. <Br>
 
 
 1. Designing a layout
