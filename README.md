@@ -67,11 +67,11 @@ Recently, many students have leaned towards learning Data Science and look forwa
 
 #### For DataScience 
 
-(If you have multiple problems in mind-make sure you are raising multiple issues for each, i.e for each issue should be related to one single data science problem, raise multiple issues for multiple problems.)
+**(If you have multiple problems in mind-make sure you are raising multiple issues for each, i.e for each issue should be related to one single data science problem, raise multiple issues for multiple problems.)**
 
 1. Make an Issue for each problem you are looking to solve. (For example, if you have 2 projects in mind, one from machine learning and deep learning, make sure you make different issues for each.)
 
-2. Make sure you use correct labels for you problem, "machine learning" and "deep learning" is available in the labels tab. Make sure you are using them, along with "DevIncept". So, your issue should have two labels, "DevIncept" and either "machine learning" or "deep learning" based on your Data Science problem.
+2. **Make sure you use correct labels for you problem**, "machine learning" and "deep learning" is available in the labels tab. Make sure you are using them, along with "DevIncept". So, your issue should have two labels, "DevIncept" and either "machine learning" or "deep learning" based on your Data Science problem.
 
 
 2. Find great problems related in various fields <Br>
