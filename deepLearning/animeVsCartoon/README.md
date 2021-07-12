@@ -1,9 +1,10 @@
 # Anime vs Cartoon
 
 ### <i> Try it yourself - https://animevscartoon.herokuapp.com/ </i>
+### <i> Demonstration Video - https://www.youtube.com/watch?v=BlhWdVGG0Hw/ </i>
 <br>
 
-[![Cover Image](https://github.com/kanakmi/dogvscat/blob/main/Cover.png?raw=True)](https://animevscartoon.herokuapp.com/)
+[![Cover Image](https://github.com/kanakmi/Anime-vs-Cartoon/blob/main/Cover.png?raw=True)](https://animevscartoon.herokuapp.com/)
 
 ## Tech Stack
 
@@ -17,18 +18,19 @@
 ## Overview
 
 Is Anime and Cartoon the same? There is always a confusion around this.<br>
-To solve this never ending debate question, I've created a ML Model that could classify between the images of Anime and a Cartoon. <br>
-The CNN model uses 8000 images (4000 each of Cat and Dog) for the classification task.<br>
-I scrapped the Dataset myself and uploaded it on drive for others to use and the link for the same is https://drive.google.com/drive/folders/1NkQK7SrPRvbmdgMTEsJQ5-i-oY4kzVLL?usp=sharing <br>
-For testing the best model, 2000 different images (1000 each of cat and dog) are used out of which 50% (1000) images form the Validation Set. 
+To solve this never ending debate question, I've created a classifier that can distinguish between the images of Anime and a Cartoon. <br>
+I've created a Convolutional Neural Network that uses 9148 images (4451 of Anime and 4697 of Cartoon) for the classification task.<br>
+I scrapped the Dataset myself and uploaded it on drive for others to use and the link for the same is - https://drive.google.com/drive/folders/1NkQK7SrPRvbmdgMTEsJQ5-i-oY4kzVLL?usp=sharing <br>
+For testing the best model, 1830 images are used out of which 50% (915) images form the Validation Set. 
 The model with the least Validation Loss is saved for future predictions.<br>
 The best saved model gives an Accuracy of 87% with a good balance between Precision and Recall.
 <br>
+
 ## About the Model
 
-The Model contains 4 layers of Convolutional Neural Networks with different hyperparameters. Each CNN layer is followed by a MaxPooling2D layer. The second convolutional layer also uses padding to give importance to the features lying in the corners of the images. The dropout layers are added for regularization (to prevent the model from overfitting the training data).<br>
-The output from the last Convolutional layer is then Flattened and passed over to a dense Artificial Neural Network containing 4 hidden layers (also some dropout layers) and finally an output layer.<br>
-The model has over 5 Million trainable parameters.<br>
+The Model contains 5 layers of Convolutional Neural Networks with different hyperparameters. Each CNN layer is followed by a MaxPooling2D layer. The second convolutional layer also uses padding to give importance to the features lying in the corners of the images. The dropout layers are added for regularization (to prevent the model from overfitting the training data).<br>
+The output from the last Convolutional layer is then Flattened and passed over to a dense Artificial Neural Network containing 3 hidden layers (also some dropout layers) and finally an output layer.<br>
+The model has over 1 Million trainable parameters.<br>
 
 ### Libraries Required for running the code inside Jupyter Notebook
 
