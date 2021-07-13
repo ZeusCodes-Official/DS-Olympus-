@@ -22,7 +22,7 @@ The main aim of our model is to detect whether the recieved message is a Spam or
 
 There is no such restriction on using a specific dataset. For better prediction, any dataset with proper preprocessing and parameter selection can give you the perfect accuracy.
 
-- [Dataset used in our Model](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+- [Dataset used in our Model](https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/tree/main/machineLearning/Spam%20SMS%20Detection%20Model/Dataset)
 - [Some other Dataset Example](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
 ## **Working of Model**
