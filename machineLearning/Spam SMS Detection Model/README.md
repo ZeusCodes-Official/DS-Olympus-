@@ -39,3 +39,9 @@ In this image we can see that "Hello, How are You?" is obviously a normal messag
 Similarly, in the second image the message "Congrats! you won a lucky draw ref. no. 6362736" seems suspicious so, its is predicted as a Spam by the model with the accuracy of 88.1%
 
 </ol> 
+</br>
+
+## **Built and contributed by :** 
+
+<a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
+</br>
