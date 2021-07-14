@@ -79,7 +79,7 @@ Machine learning projects will be under "machineLearning" folder.<br>
 ✅ Deep Learning (Image Recognition, Natural Language Processing, etc)<br>
 Deep learning projects will be under "deepLearning" folder.
 
-4. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". 
+4. Use "camelCase" for the folder you will be creating - example Project "Hand sign detection" in camelCase will be "handSignDetection". Don't use spaces and start with small letter. 
 
 5. The folder should contain - <br>
 ✅ Jyputer Notebook (complete explanation and code to the problem)<br> 
