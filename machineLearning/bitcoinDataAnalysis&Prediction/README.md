@@ -1,4 +1,4 @@
-**Bitcoin Data Analysis & Prediction**
+# **Bitcoin Data Analysis & Prediction**
 
 Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
 -  Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.
