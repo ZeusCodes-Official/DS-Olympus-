@@ -30,13 +30,13 @@ There is no such restriction on using a specific dataset. For better prediction,
   <li> Message Example 1 :</li>
 <img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/Spam%20SMS%20Detection%20Model/demoPics/Message%20Testing%201.jpeg" width=400><br>
 
-In this image we can see that "Hello, How are You?" is obviously a normal message so, it is classified as not spam with the accuracy of 95.35% 
+In this image we can see that ....
 
   <li> Message Example 2 :</li>
 
 <img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/Spam%20SMS%20Detection%20Model/demoPics/Message%20Testing%202.jpeg" width=400><br>
 
-Similarly, in the second image the message "Congrats! you won a lucky draw ref. no. 6362736" seems suspicious so, its is predicted as a Spam by the model with the accuracy of 88.1%
+Similarly, in the second image the message ....
 
 </ol> 
 </br>
