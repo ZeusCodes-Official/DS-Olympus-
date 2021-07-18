@@ -9,11 +9,11 @@ The main aim of our model is to detect whether the comments people post on a vid
 
 <ol>
   <li>Initially, we set up the drive and locate the dataset.</li>
-  <li>Then, we visualize the training dataset. </li>
-  <li>In the next step, Pre-processing is carried out.</li>
-  <li>Next, we seperate the Spam and Ham words. </li>
-  <li>Then we a predictor function. </li>
-  <li>Finally, we take the input to check whether the Message is Spam or Ham. </li>
+  <li>Then, we read and visualize the training dataset. </li>
+  <li>In the next step, Pre-processing is carried out, in which we process the spam links</li>
+  <li>Next, we seperate the Harmful and Normal comments. </li>
+  <li>Then we a use predictor function and check our models accuracy </li>
+  <li>Finally, we take the input to check whether the comment is Harmful or not. </li>
 </ol> 
  
 
@@ -27,16 +27,23 @@ There is no such restriction on using a specific dataset. For better prediction,
 
 ## **Working of Model**
  <ol>
-  <li> Message Example 1 :</li>
-<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/Spam%20SMS%20Detection%20Model/demoPics/Message%20Testing%201.jpeg" width=400><br>
+  <li> "ytCommentAnalyser_main" model <strong>Accuracy</strong> :</li> </br>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/youtubeCommentAnalyser/demoPics/main_acc.jpeg" width=400><br>
 
-In this image we can see that ....
+In this image we can see that due to concatination of multiple dataset our model got enough data for training, so this model gave pretty good accuracy.
 
-  <li> Message Example 2 :</li>
+</br>
+<li> "ytCommentAnalyser_main" model <strong>Result</strong> :</li> </br>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/youtubeCommentAnalyser/demoPics/main_conc.jpeg" width=400><br>
+</br>
 
-<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/Spam%20SMS%20Detection%20Model/demoPics/Message%20Testing%202.jpeg" width=400><br>
+  <li> "ytCommentAnalyser2" model <strong>Accuracy</strong> :</li> </br>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/youtubeCommentAnalyser/demoPics/2_acc.jpeg" width=400><br>
 
-Similarly, in the second image the message ....
+Similarly, in the second image the model has less accuracy because we used a single dataset
+
+<li> "ytCommentAnalyser2" model <strong>Result</strong> :</li> </br>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-Olympus-/blob/main/machineLearning/youtubeCommentAnalyser/demoPics/2_conc.jpeg" width=400><br>
 
 </ol> 
 </br>
