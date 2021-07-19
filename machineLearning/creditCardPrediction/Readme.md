@@ -10,3 +10,6 @@ This dataset was part of May 2021 Jobathon conducted my analytics vidhya, for mo
 
 Source: https://www.kaggle.com/sajidhussain3/jobathon-may-2021-credit-card-lead-prediction
 
+## Steps
+
+Start with exploring data to know more about the pattern and outliers. Move on to data cleaning and feature engineering to make data ready for ML models. Finally, apply models , do hyperparameter tuning and choose the best model.
