@@ -8,11 +8,11 @@ Water quality refers to the chemical, physical, and biological characteristics o
 
 * In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
 
-**GOAL**
+### **GOAL**
 
 The goal of this project is to  predict quality of water as 0 or 1 using features as 'ph', 'Hardness', 'Solids', 'Chloramines', 'Sulfate', 'Conductivity', 'Organic_carbon', 'Trihalomethanes' and 'Turbidity'.
 
-**DATASET**
+### **DATASET**
 
 Dataset can be downloaded from [here](https://www.kaggle.com/adityakadiwal/water-potability).
 
@@ -49,24 +49,24 @@ The turbidity of water depends on the quantity of solid matter present in the su
 10. Potability:
 Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
 
-**WHAT I HAVE DONE**
+### **WHAT I HAVE DONE**
 - Step 1: Data Exploration
 - Step 2: Data Visualization
 - Step 3: Data Training & Model Creation
 - Step 4: Performance Evaluation
 
-**LIBRARIES NEEDED**
+### **LIBRARIES NEEDED**
 - pandas
 - numpy
 - matplotlib
 - sklearn (For data traning, importing models and performance check)
 
-**Accuracy of different models used**
+### **Accuracy of different models used**
 - By using Logistic Regression model 
  ```python
     Accuracy achieved :  61.60
  ``` 
 
-**Author** 
+### **Author** 
 
 [Ayushi Shrivastava](https://github.com/ayushi424)
