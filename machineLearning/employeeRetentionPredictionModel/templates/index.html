@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Employee Retention</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="{{url_for('static',filename='fonts/material-icon/css/material-design-iconic-font.min.css')}}">
+
+    <!-- Main css -->
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+</head>
+<body>
+
+    <div class="main">
+        <div class="container">
+            <div class="signup-content">
+                <div class="signup-img">
+                    <img src="{{ url_for('static', filename='images/yg.jpg') }}" alt="">
+                </div>
+                <div class="signup-form">
+                    <form method="POST" class="register-form" id="register-form" action="{{url_for('home')}}">
+                        <h2><u>Enter the following information : </u></h2>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="a">Employee's Current Satisfaction Level:</label>
+                                <input type="text" name="a" id="a" required/>
+ 				<h4>(e.g. If Satisfaction level is 30%, then enter 0.30)</h4>
+                            </div>
+			 </div>
+			 <div class="form-row">
+                            <div class="form-group">
+                                <label for="b">Employee's Previous Satisfaction Level :</label>
+                                <input type="text" name="b" id="b" required/>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="c">No. of Projects done :</label>
+                            <input type="number" name="c" id="c" required/>
+                        </div>
+                        <div class="form-radio">
+                            <label for="d" class="radio-label">Does Employee got Promotion in last 5 years?</label>
+                            <div class="form-radio-item">
+                                <input type="radio" name="d" id="d" value=1 checked>
+                                <label for="d">Yes</label>
+                                <span class="check"></span>
+                            </div>
+                            <div class="form-radio-item">
+                                <input type="radio" name="d" id="e" value=0>
+                                <label for="e">No</label>
+                                <span class="check"></span>
+                            </div>
+                        </div>
+			<div class="form-radio">
+                            <label for="f" class="radio-label">Any work Accident Occured during Employee's job Span?</label>
+                            <div class="form-radio-item">
+                                <input type="radio" name="f" id="f" value=1 checked>
+                                <label for="f">Yes</label>
+                                <span class="check"></span>
+                            </div>
+                            <div class="form-radio-item">
+                                <input type="radio" name="f" id="g" value=0>
+                                <label for="g">No</label>
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="h">Salary level :</label>
+                                <div class="form-select">
+                                    <select name="h" id="h">
+                                        <option value=0>Low</option>
+                                        <option value=1>Medium</option>
+                                        <option value=2>High</option>
+                                    </select>
+                                    <span class="select-icon"><i class="zmdi zmdi-chevron-down"></i></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div class="form-group">
+                            <label for="i">Average Monthly Hours Of Employee :</label>
+                            <input type="Number" name="i" id="i">
+                        </div>
+                        <div class="form-group">
+                            <label for="j">From how many years Employee is Working in your Company :</label>
+                            <input type="Number" name="j" id="j">
+                        </div>
+                        <div class="form-submit">
+                            <input type="submit" value="Reset All" class="submit" name="reset" id="reset" />
+                            <input type="submit" value="Predict" class="submit" name="submit" id="submit" />
+                        </div>
+                    </form>
+                    <center>Copyright@2021 All right reserved.</center>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
