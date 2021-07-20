@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Employee Retention</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="{{url_for('static',filename='fonts/material-icon/css/material-design-iconic-font.min.css')}}">
+
+    <!-- Main css -->
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+</head>
+<body>
+
+    <div class="main">
+        <div class="container">
+            <div class="signup-content">
+                <div class="signup-img">
+                    <img src="{{ url_for('static', filename='images/yg.jpg') }}" alt="">
+                </div>
+                <center>
+                {%if data==0%}
+                <h1>Employee will retain in the company.</h1>
+                {%else%}
+                <h1>Employee will leave the company.</h1>
+                {%endif%}
+                <a href="/">Back to Homepage</a>
+                </center>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
