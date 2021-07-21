@@ -32,13 +32,13 @@ Dataset can be downloaded from [here](https://www.kaggle.com/balakrishcodes/othe
 
 ### **Conclusion**
 
-- For this project i.e. Movies classification we have used two classification algorithms that are Naive Bayes and KNN using same training and testing data.
+- For this project i.e. Movie Classification we have used two classification algorithms that are Naive Bayes and KNN using same training and testing data.
 
 - The accuracy of KNN model is higher than that of Naive bayes model.
 
 - The error for KNN model is lower than that of Naive bayes model.
 
-- We can conclude that KNN is more effiecient classification algorithm than Naive Bayes algorithm.
+- We can conclude that KNN is more efficient classification algorithm than Naive Bayes algorithm.
 
 ### **Author** 
 
