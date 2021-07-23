@@ -22,4 +22,4 @@
 
   * Running the model on our test data
 
-Download the dataset folder from <a href="https://www.kaggle.com/andrewmvd/car-plate-detection> here </a>
+Download the dataset folder from <a href="https://www.kaggle.com/andrewmvd/car-plate-detection"> here </a>
