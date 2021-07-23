@@ -114,9 +114,13 @@ Web dev part is a work in progress, **before making issues and pr's make sure yo
 2. Further points will be clarified soon. 
   
   
+  ## Open-Source Programs Section
+  ![](https://user-images.githubusercontent.com/70858557/125765880-09f3e81f-7f09-4369-842a-6e1ff3619a16.gif)
+  
   
   ## OUR VALUABLE CONTRIBUTORS✨
   
   <a href="https://github.com/ZeusCodes-Official/DS-Olympus-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ZeusCodes-Official/DS-Olympus-" />
 </a>
+
