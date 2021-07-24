@@ -38,6 +38,7 @@ The MNIST database contains 60,000 training images and 10,000 testing images. Ha
 ![image](https://user-images.githubusercontent.com/65659902/126862415-28c6b759-64f8-4a68-a898-ef8a6602d7a2.png)
 
 ### Colab Link
-(https://colab.research.google.com/drive/1OGAsYdcyXFN0Vc85CbwVtmgjUGVc7eAx?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OGAsYdcyXFN0Vc85CbwVtmgjUGVc7eAx?usp=sharing)
 
-# Thank You -By Hemaraj Dhakal
+#### Thank You -By Hemaraj Dhakal
+
