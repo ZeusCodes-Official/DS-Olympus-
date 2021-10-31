@@ -1,0 +1,2 @@
+The original dataset contain 60,000+ image for training and testing.
+The image in the train and test are to show the sample images in the dataset.
